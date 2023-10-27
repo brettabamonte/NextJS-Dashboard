@@ -1,5 +1,15 @@
-## Next.js App Router Course - Final
+## Next.js Dashboard Application
 
-This is the final template for the Next.js App Router Course. It contains the final code for the dashboard application.
+This is a Next.js Dasboard Application. Built based off the learn nextJS curiculum on the NextJS [website](https://nextjs.org/learn).
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+#Features
+- App Router
+- Dynamic and Static Rendering
+- Streaming and Server Components
+- Parallel Data Fetching
+- and more...
+
+#Stack
+Front-End: NextJs
+Database: Postgres (Relational Database) and SQL (Programming Language For Querying)
+Host: Vercel
